@@ -36,7 +36,9 @@ void initialize() {
 
 void render() {
 
-	glNewList(1, GL_COMPILE_AND_EXECUTE);
+	GLuint listID = glGenLists(1);
+
+	glNewList(listID, GL_COMPILE_AND_EXECUTE);
 
 	glEndList();
 
