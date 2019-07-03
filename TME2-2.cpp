@@ -7,11 +7,11 @@
  */
 
 
+#include <iostream>
 
-#define GL_SILENCE_DEPRECATION
-
-#include <GLUT/glut.h>
 #include <math.h>
+
+#include "gl/glut.h"
 
 
 typedef GLint vertex3i [3];
