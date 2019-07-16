@@ -10,9 +10,8 @@
  The program's defaults are set to all lights off, the material property set to gold, and the default light element setting is set to Ambient, Diffuse, and Specular. 
  */
 
-
-#include "gl/glut.h"
 #include <stdlib.h>
+#include "gl/glut.h"
 
 // This Light class is for ease of use in determining the light factors
 class Light {
