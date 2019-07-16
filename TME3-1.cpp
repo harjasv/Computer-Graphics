@@ -11,7 +11,7 @@
  */
 
 
-#include <gl/glut.h>
+#include "gl/glut.h"
 #include <stdlib.h>
 
 // This Light class is for ease of use in determining the light factors
