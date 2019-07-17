@@ -488,7 +488,7 @@ int main(int argc, char **argv)
     
     
     
-    int windowHandle = glutCreateWindow("Athabasca University - Comp390 U8 S2 O1");
+    int windowHandle = glutCreateWindow("Harjas Virk - TME 3: Project 1");
     
     glutSetWindow(windowHandle);
     
