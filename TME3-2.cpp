@@ -1,19 +1,10 @@
-/* Athabasca University
+/*
+ TME 3: Lighting and Surface Textures
+ Project 2
  
- Comp390 - Introduction to Computer Graphics
+ Name: Harjas Virk
  
- Version 4
- 
- Unit 8 Section 3 Objective 1
- 
- Calculating three terms
- 
- 
- 
- @author: Steve Leung
- 
- @date: June 5, 2011
- 
+ Student ID: 3373921
  */
 
 #include <iostream>
